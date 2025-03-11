@@ -3,3 +3,32 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Navigation */
+.navbar {
+    background-color: var(--gray-light);
+}
+
+.sign-in-btn {
+    background-color: var(--primary);
+    color: white !important;
+    transition: all 0.3s ease;
+}
+
+.sign-in-btn:hover {
+    background-color: var(--primary-dark);
+}
+
+.nav-link {
+    color: var(--text-dark);
+    transition: transform 0.3s ease;
+}
+
+.nav-link:hover {
+    color: var(--primary);
+    transform: translateY(-3px);
+    -webkit-transform: translateY(-3px);
+    -moz-transform: translateY(-3px);
+    -ms-transform: translateY(-3px);
+    -o-transform: translateY(-3px);
+}
