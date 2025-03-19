@@ -19,8 +19,8 @@ The project was developed within a time limit of <strong>[mention time period, e
 </ul>
 
 ### Screenshots (Optional)
-<img src="![main](https://github.com/user-attachments/assets/9c79f9f7-3954-4a91-b7ea-0d81e389e1ed)" alt="Screenshot" width="800px"/>
 
+![main](https://github.com/user-attachments/assets/9c79f9f7-3954-4a91-b7ea-0d81e389e1ed)"
 
 
 
