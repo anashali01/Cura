@@ -19,7 +19,7 @@ The project was developed within a time limit of <strong>[mention time period, e
 </ul>
 
 ### Screenshots (Optional)
-<img src="D:\Cura\assets\Images" alt="Screenshot" />
+<img src="Cura\assets\Images" alt="Screenshot" />
 
 ### Installation
 
