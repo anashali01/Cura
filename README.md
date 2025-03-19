@@ -21,6 +21,9 @@ The project was developed within a time limit of <strong>[mention time period, e
 ### Screenshots (Optional)
 <img src="Cura\assets\Images\main.jpg" alt="Screenshot" />
 
+![main](https://github.com/user-attachments/assets/9c79f9f7-3954-4a91-b7ea-0d81e389e1ed)
+
+
 ### Installation
 
 <pre>
